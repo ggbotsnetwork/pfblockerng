@@ -1,0 +1,7 @@
+local-data: "cheatautomation.com 60 IN A 10.9.8.7"
+local-data: "cheatengine.org 60 IN A 10.9.8.7"
+local-data: "hax4you.com 60 IN A 10.9.8.7"
+local-data: "lanbytes.net 60 IN A 10.9.8.7"
+local-data: "memorydownloader.net 60 IN A 10.9.8.7"
+local-data: "memoryhackers.org 60 IN A 10.9.8.7"
+local-data: "rulesofsurvivalcheatsblog.weebly.com 60 IN A 10.9.8.7"
