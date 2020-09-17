@@ -1,2 +1,2 @@
-local-data: "dolohen.com 60 IN A 10.9.8.7"
-local-data: "getcontent.net 60 IN A 10.9.8.7"
+local-data: "dolohen.com 60 IN A 172.16.17.18"
+local-data: "getcontent.net 60 IN A 172.16.17.18"
