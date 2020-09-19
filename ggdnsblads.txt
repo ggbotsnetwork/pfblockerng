@@ -1,2 +1,2 @@
-127.0.0.1 dolohen.com
-127.0.0.1 getcontent.net
+dolohen.com
+getcontent.net
