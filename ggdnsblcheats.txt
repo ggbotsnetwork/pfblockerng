@@ -1,13 +1,13 @@
-local-data: "cheatautomation.com 60 IN A 172.16.17.18"
-local-data: "cheatengine.org 60 IN A 172.16.17.18"
-local-data: "cheatmachineros.blogspot.com 60 IN A 172.16.17.18"
-local-data: "exiledros.co 60 IN A 172.16.17.18"
-local-data: "exiledros.cc 60 IN A 172.16.17.18"
-local-data: "hax4you.com 60 IN A 172.16.17.18"
-local-data: "hax4you.me 60 IN A 172.16.17.18"
-local-data: "lanbytes.net 60 IN A 172.16.17.18"
-local-data: "memorydownloader.net 60 IN A 172.16.17.18"
-local-data: "memoryhackers.org 60 IN A 172.16.17.18"
-local-data: "roscheats.weebly.com 60 IN A 172.16.17.18"
-local-data: "rulesofsurvivalcheatsblog.weebly.com 60 IN A 172.16.17.18"
-local-data: "wallhax.com 60 IN A 172.16.17.18"
+cheatautomation.com
+cheatengine.org
+cheatmachineros.blogspot.com
+exiledros.co
+exiledros.cc
+hax4you.com
+hax4you.me
+lanbytes.net
+memorydownloader.net
+memoryhackers.org
+roscheats.weebly.com
+rulesofsurvivalcheatsblog.weebly.com
+wallhax.com
